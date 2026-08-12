@@ -1,0 +1,4 @@
+node_modules/
+.windows-reference/
+.runtime/
+*.log
